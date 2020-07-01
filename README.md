@@ -42,6 +42,10 @@ I’m running Xcode 11.4.1 (11E503a) on Catalina 10.15.4 (19E266) on MacBook Pro
 
 ---
 
+In Xcode 12.0 beta 1 (12A6159), on iOS 14 beta 1, this appears to have been fixed.
+
+---
+
 April 20, 2020
 
 Copyright (c) 2020 Rob Ryan. All Rights Reserved.
